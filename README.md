@@ -14,7 +14,7 @@
   
 <h3 align="">Connect with me:</h3>
 
-  <a href="mailto:eslamelhanaty62@gmail.com" >
+  <a https://wa.me/201016393139 >
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 
