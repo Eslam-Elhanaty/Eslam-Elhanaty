@@ -5,15 +5,16 @@
 
 I’m a Front-End Developer
 
-I specialize in crafting engaging and interactive user interfaces with a focus on modern web technologies. I am proficient in HTML5, CSS3, and JavaScript, with experience using frameworks and libraries such as React.js, Vue.js, and Next.js.
+### Hi there 👋, my name is Eslam Elhanaty
+#### Front-End Developer
+![Front-End Developer](https://www.facebook.com/photo.php?fbid=2044478975901865&set=a.104075833275532&type=3&mibextid=xfxF2i&rdid=RhUGL3yKVFDSrRhL&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FL6mzbezAMSnkgAo8%2F%3Fmibextid%3DxfxF2i)
 
-I am skilled in creating responsive designs with Bootstrap and Tailwind CSS, ensuring a seamless experience across devices. I am passionate about optimizing web performance and enhancing user experience through thoughtful design and efficient coding practices.
 
-Open to collaboration and eager to contribute to innovative projects within the tech community.
+I’m a Front-End Developer with experience in HTML5, CSS3, and JavaScript, skilled in using React.js, Vue.js, and Next.js. I specialize in creating responsive designs with Bootstrap and Tailwind CSS to ensure a seamless experience across all devices. Passionate about improving web performance and user experience through thoughtful design and efficient coding. Open to collaboration and eager to contribute to innovative projects within the tech community.
 
 
 Skills:
-* VUE JS 
+*VUE JS 
 *REACT 
 *JS 
 *HTML 
@@ -21,6 +22,13 @@ Skills:
 *Bootstrap
 *Tailwind
 *Next.js
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Eslam-Elhanaty)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/people/Eslam-Elhanaty/100010193462416/?mibextid=ZbWKwL)  
+
+
 
 - 🔭 I’m currently working on this page. 
 
