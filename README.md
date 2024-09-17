@@ -5,14 +5,14 @@
 I’m a Front-End Developer with experience in HTML5, CSS3, and JavaScript, skilled in using React.js, Vue.js, and Next.js. I specialize in creating responsive designs with Bootstrap and Tailwind CSS to ensure a seamless experience across all devices. Passionate about improving web performance and user experience through thoughtful design and efficient coding. Open to collaboration and eager to contribute to innovative projects within the tech community.
 
 Skills:
-*VUE JS 
-*REACT
-*JS 
-*HTML 
-*CSS 
-*Bootstrap 
-*Tailwind 
-*Next.js
+* VUE JS 
+* REACT
+* JS 
+* HTML 
+* CSS 
+* Bootstrap 
+* Tailwind 
+* Next.js
 
 - 🔭 I’m currently working on this page. 
 
