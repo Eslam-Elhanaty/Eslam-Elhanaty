@@ -22,9 +22,7 @@
 
   
   <a href="https://www.linkedin.com/in/eslam-elhanaty-504a52232" target="blank">
-    
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/> </a>
 
   
    <a href="https://www.facebook.com/people/Eslam-Elhanaty/100010193462416/?mibextid=ZbWKwL">
@@ -32,7 +30,7 @@
      <a/>
 </div>
 
-###
+
 
 <p align="">
 <a href="https://www.linkedin.com/in/eslam-elhanaty-504a52232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eslam elhanaty" height="30" width="40" /></a>
