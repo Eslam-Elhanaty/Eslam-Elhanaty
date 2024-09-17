@@ -22,7 +22,7 @@
 
 
   <a  href="https://wa.me/201016393139" >
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whats app"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="70" height="50" alt="whats app"  />
   </a>
 
 <p align="center">
