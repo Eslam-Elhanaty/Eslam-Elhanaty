@@ -1,4 +1,4 @@
-<div claas="display="flex" ">
+<div claas="display="flex , text-center" >
   
 <h1 align="center">Hi 👋,<br/> I'm Eslam Elhanaty</h1>
 <h3 align="center">I’m a Front-End Developer with experience in HTML5, CSS3, and JavaScript, skilled in using React.js, Vue.js, and Next.js. I specialize in creating responsive designs with Bootstrap and Tailwind CSS to ensure a seamless experience across all devices. Passionate about improving web performance and user experience through thoughtful design and efficient coding. Open to collaboration and eager to contribute to innovative projects within the tech community.</h3>
