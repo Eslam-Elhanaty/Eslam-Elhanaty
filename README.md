@@ -17,7 +17,7 @@
 
 
 <p align="">
-  <a href="eslamelhanaty62@gmail.com‬‏" target="blank"><img align="" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="gmail logo" height="30" width="40" /></a>
+  <a href="eslamelhanaty62@gmail.com‬‏" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/images/icons/social/gmail.svg" alt="gmail logo" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/eslam-elhanaty-504a52232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eslam elhanaty" height="30" width="40" /></a>
 <a href="https://www.facebook.com/people/Eslam-Elhanaty/100010193462416/?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eslam elhanaty" height="30" width="40" /></a>
   
