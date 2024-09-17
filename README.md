@@ -27,7 +27,7 @@
 <a href="https://www.facebook.com/people/Eslam-Elhanaty/100010193462416/?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eslam elhanaty" height="30" width="40" /></a>
   
   <a  href="https://wa.me/201016393139" >
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="30" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="30" alt="whats app"  />
   </a>
 </p>
 
