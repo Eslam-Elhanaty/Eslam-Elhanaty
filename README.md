@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eslam Elhanaty</h1>
 <h3 align="center">I’m a Front-End Developer with experience in HTML5, CSS3, and JavaScript, skilled in using React.js, Vue.js, and Next.js. I specialize in creating responsive designs with Bootstrap and Tailwind CSS to ensure a seamless experience across all devices. Passionate about improving web performance and user experience through thoughtful design and efficient coding. Open to collaboration and eager to contribute to innovative projects within the tech community.</h3>
-<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Flovely-animations-of-the-month-december-2017--88946161376771631%2F&psig=AOvVaw1r_yFYk1KsBMVImOkDxnyQ&ust=1726628591165000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCByfD-yIgDFQAAAAAdAAAAABAo](https://i.pinimg.com/originals/8a/2e/4c/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif)" alt="eslam-elhanaty"/>
+<img src="https://i.pinimg.com/originals/8a/2e/4c/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif" alt="eslam-el"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eslam-elhanaty&label=Profile%20views&color=0e75b6&style=flat" alt="eslam-elhanaty" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eslam-elhanaty" alt="eslam-elhanaty" /></a> </p>
