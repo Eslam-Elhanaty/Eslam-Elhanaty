@@ -14,8 +14,8 @@
   
 <h3 align="">Connect with me:</h3>
 <p align="">
-<a href="https://linkedin.com/in/eslam elhanaty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eslam elhanaty" height="30" width="40" /></a>
-<a href="https://fb.com/eslam elhanaty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eslam elhanaty" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eslam-elhanaty-504a52232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eslam elhanaty" height="30" width="40" /></a>
+<a href="https://www.facebook.com/people/Eslam-Elhanaty/100010193462416/?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eslam elhanaty" height="30" width="40" /></a>
 </p>
 
 <h3 align="">Languages and Tools:</h3>
