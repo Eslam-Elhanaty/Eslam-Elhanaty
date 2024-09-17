@@ -14,7 +14,7 @@
   
 <h3 align="">Connect with me:</h3>
 
-<p align="center">
+<div align="center">
   <a  href="https://www.linkedin.com/in/eslam-elhanaty-504a52232 >
     
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -30,7 +30,7 @@
    <a href="https://www.facebook.com/people/Eslam-Elhanaty/100010193462416/?mibextid=ZbWKwL">
        <img  src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
      <a/>
-</p>
+</div>
 
 ###
 
