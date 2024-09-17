@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Eslam Elhanaty</h1>
+<div claas="flex ">
+  
+<h1 align="center">Hi 👋,<br/> I'm Eslam Elhanaty</h1>
 <h3 align="center">I’m a Front-End Developer with experience in HTML5, CSS3, and JavaScript, skilled in using React.js, Vue.js, and Next.js. I specialize in creating responsive designs with Bootstrap and Tailwind CSS to ensure a seamless experience across all devices. Passionate about improving web performance and user experience through thoughtful design and efficient coding. Open to collaboration and eager to contribute to innovative projects within the tech community.</h3>
 <img src="https://i.pinimg.com/originals/8a/2e/4c/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif" alt="eslam-el" width="50%"/>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eslam-elhanaty&label=Profile%20views&color=0e75b6&style=flat" alt="eslam-elhanaty" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eslam-elhanaty" alt="eslam-elhanaty" /></a> </p>
