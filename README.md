@@ -14,12 +14,12 @@
   
 <h3 align="">Connect with me:</h3>
 
-  <a >
+  <a href="https://mail.google.com/mail/u/0/#inbox
+" >
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 
   
-
   
 
 
